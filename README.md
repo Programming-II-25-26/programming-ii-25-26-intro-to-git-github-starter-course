@@ -90,7 +90,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next Steps
 * Write a simple "Hello World" program and submit it to this assignment.
-* * Open a pull request and let me know you have finished the assignment.  
+* Open a pull request and let me know you have finished the assignment.  
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
